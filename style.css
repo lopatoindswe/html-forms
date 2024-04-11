@@ -1,0 +1,18 @@
+body {
+  padding: 10px;
+}
+
+label,
+textarea,
+input {
+  margin: 5px 5px;
+}
+
+textarea,
+input {
+  width: 98%;
+}
+
+textarea {
+  height: 400px;
+}
